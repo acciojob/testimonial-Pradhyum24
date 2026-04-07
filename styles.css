@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body {
+    margin: 0;
+    font-family: serif;
+}
+
+#container {
+    padding: 40px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.testimonial {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #d3d3d3; /* light grey border */
+    margin-bottom: 20px;
+}
+
+.name {
+    text-align: right;
+    font-style: italic;
+    margin-top: 10px;
+}
